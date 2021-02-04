@@ -11,5 +11,5 @@ This is a simple LMGTFY.
 ## How ?
 
 Send them a link :
-- typing the stupid question in [thomascaillier.github.io/lmgtfy.xyz](thomascaillier.github.io/lmgtfy.xyz)
-- directly add the question in get parameter : `thomascaillier.github.io/lmgtfy.xyz?q=thestupidquestion`
+- typing the stupid question in [lmgtfy.handiak.link](lmgtfy.handiak.link)
+- directly add the question in get parameter : `lmgtfy.handiak.link?q=thestupidquestion`
